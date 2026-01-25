@@ -1,0 +1,484 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "Jeux de tuiles/Environement",
+        ".",
+        "Jeux de tuiles",
+        "Jeux de tuiles/Environement/Structures/Stations",
+        "Jeux de tuiles/Environement/Structures/Stations/Sawmill"
+    ],
+    "fileStates": {
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -174.375,
+                "y": -169.5
+            }
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Bull_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Bull_shadow": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Calf_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Chick_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Lamb_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Piglet_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Rooster_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Sheep_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#Turkey_animation": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#calf_shadow": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#chick_shadow": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#lamb_shadow": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#piglet_shadow": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#rooster_shadow": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#sheep_shaddow": {
+            "scaleInDock": 1
+        },
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx#turkey_shadow": {
+            "scaleInDock": 1
+        },
+        "Environement.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Animated/Pan_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "Jeux de tuiles/Environement/Props/Animated/Pan_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "Jeux de tuiles/Environement/Props/Animated/Pan_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Animated/Pan_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Animated/Pan_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Animated/Pan_04-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Animated/Pan_05-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Jeux de tuiles/Environement/Props/Static/Dungeon_Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Esoteric.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Farm.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Furniture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Meat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Pan.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Resources.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Rocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Shadows.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Tools.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_01/Size_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_01/Size_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_01/Size_04.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_01/Size_05.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_02/Size_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_02/Size_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_02/Size_04.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_02/Size_05.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_04.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_05.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Props/Static/Vegetation.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Buildings/Floors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Jeux de tuiles/Environement/Structures/Buildings/Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Buildings/Roofs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Buildings/Shadows.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Buildings/Walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Alchemy/Alchemy_Table_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Alchemy/Alchemy_Table_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Alchemy/Alchemy_Table_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Anvil/Anvil.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Anvil/Anvil_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Anvil/Anvil_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Anvil/Anvil_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_04-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_05-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_06-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_07-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_08-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_09-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Bonfire_10-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Fire_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Fire_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Bonfire/Smoke-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Butchery/Butchery_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Butchery/Butchery_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Butchery/Butchery_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Butchery/Butchery_04.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Cooker/Cooker_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Cooker/Cooker_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Cooker/Cooker_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Cooker/Cooker_04-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Estructure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Grill/Cooking Station.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Grill/Grill_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Grill/Grill_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Grill/Grill_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Cooking Station/Grill/Grill_04-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Bricks_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Bricks_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Bricks_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Furnace.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Iron_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Iron_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Iron_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Stone_01-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Stone_02-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Furnace/Stone_03-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Sawmill/Base.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Sawmill/Level_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Sawmill/Level_2-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Sawmill/Level_3-Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Structures/Stations/Workbench/Workbench.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Tilesets/Dungeon_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Jeux de tuiles/Environement/Tilesets/Floors_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Tilesets/Wall_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Tilesets/Wall_Variations.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Environement/Tilesets/Water_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Floors_Tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Wall_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Wall_Variations.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeux de tuiles/Water_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/Environment/Tilesets",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": "3",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+    ],
+    "project": "2DGameFarm.tiled-project",
+    "recentFiles": [
+        "Jeux de tuiles/Environement/Tilesets/Water_tiles.tsx",
+        "Jeux de tuiles/Environement/Tilesets/Floors_Tiles.tsx",
+        "Jeux de tuiles/Environement/Tilesets/Wall_Variations.tsx",
+        "Jeux de tuiles/Environement/Tilesets/Wall_Tiles.tsx",
+        "Jeux de tuiles/Environement/Tilesets/Dungeon_Tiles.tsx",
+        "Jeux de tuiles/Environement/Structures/Buildings/Walls.tsx",
+        "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx",
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_05.tsx",
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_04.tsx",
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_03.tsx",
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_02.tsx",
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_02/Size_05.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
