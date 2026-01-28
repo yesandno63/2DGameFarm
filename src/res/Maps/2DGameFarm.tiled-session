@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Farm.tmx",
     "expandedProjectPaths": [
+        "Jeux de tuiles/Environement/Structures/Stations/Sawmill",
         "Jeux de tuiles/Environement",
-        ".",
         "Jeux de tuiles",
-        "Jeux de tuiles/Environement/Structures/Stations",
-        "Jeux de tuiles/Environement/Structures/Stations/Sawmill"
+        "Jeux de tuiles/Environement/Tilesets",
+        "."
     ],
     "fileStates": {
         "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx": {
@@ -72,6 +72,17 @@
             "dynamicWrapping": true,
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Farm.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 280.90909090909093,
+                "y": 422.72727272727275
+            }
+        },
+        "Farm.tmx#Bull_animation": {
+            "scaleInDock": 1
         },
         "Jeux de tuiles/Environement/Props/Animated/Pan_01-Sheet.tsx": {
             "scaleInDock": 1,
@@ -418,7 +429,7 @@
             "scaleInEditor": 1.5
         },
         "Jeux de tuiles/Environement/Tilesets/Floors_Tiles.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "Jeux de tuiles/Environement/Tilesets/Wall_Tiles.tsx": {
@@ -430,7 +441,7 @@
             "scaleInEditor": 1
         },
         "Jeux de tuiles/Environement/Tilesets/Water_tiles.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 3,
             "scaleInEditor": 1
         },
         "Jeux de tuiles/Floors_Tiles.tsx": {
@@ -459,21 +470,23 @@
     "map.tileWidth": 16,
     "map.width": 50,
     "openFiles": [
+        "Farm.tmx",
+        "Jeux de tuiles/Environement/Tilesets/Dungeon_Tiles.tsx"
     ],
     "project": "2DGameFarm.tiled-project",
     "recentFiles": [
+        "Jeux de tuiles/Environement/Tilesets/Dungeon_Tiles.tsx",
+        "Farm.tmx",
         "Jeux de tuiles/Environement/Tilesets/Water_tiles.tsx",
         "Jeux de tuiles/Environement/Tilesets/Floors_Tiles.tsx",
         "Jeux de tuiles/Environement/Tilesets/Wall_Variations.tsx",
         "Jeux de tuiles/Environement/Tilesets/Wall_Tiles.tsx",
-        "Jeux de tuiles/Environement/Tilesets/Dungeon_Tiles.tsx",
         "Jeux de tuiles/Environement/Structures/Buildings/Walls.tsx",
         "D:/Code/IdeaProject/2DGameFarm/src/res/TileSheet/animals/Tiled/Animals.tmx",
         "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_05.tsx",
         "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_04.tsx",
         "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_03.tsx",
-        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_02.tsx",
-        "Jeux de tuiles/Environement/Props/Static/Trees/Model_02/Size_05.tsx"
+        "Jeux de tuiles/Environement/Props/Static/Trees/Model_03/Size_02.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
